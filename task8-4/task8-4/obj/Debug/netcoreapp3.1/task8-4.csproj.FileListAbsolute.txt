@@ -1,0 +1,13 @@
+C:\Users\alexk\source\repos\task8-4\task8-4\bin\Debug\netcoreapp3.1\task8-4.exe
+C:\Users\alexk\source\repos\task8-4\task8-4\bin\Debug\netcoreapp3.1\task8-4.deps.json
+C:\Users\alexk\source\repos\task8-4\task8-4\bin\Debug\netcoreapp3.1\task8-4.runtimeconfig.json
+C:\Users\alexk\source\repos\task8-4\task8-4\bin\Debug\netcoreapp3.1\task8-4.runtimeconfig.dev.json
+C:\Users\alexk\source\repos\task8-4\task8-4\bin\Debug\netcoreapp3.1\task8-4.dll
+C:\Users\alexk\source\repos\task8-4\task8-4\bin\Debug\netcoreapp3.1\task8-4.pdb
+C:\Users\alexk\source\repos\task8-4\task8-4\obj\Debug\netcoreapp3.1\task8-4.csprojAssemblyReference.cache
+C:\Users\alexk\source\repos\task8-4\task8-4\obj\Debug\netcoreapp3.1\task8-4.AssemblyInfoInputs.cache
+C:\Users\alexk\source\repos\task8-4\task8-4\obj\Debug\netcoreapp3.1\task8-4.AssemblyInfo.cs
+C:\Users\alexk\source\repos\task8-4\task8-4\obj\Debug\netcoreapp3.1\task8-4.csproj.CoreCompileInputs.cache
+C:\Users\alexk\source\repos\task8-4\task8-4\obj\Debug\netcoreapp3.1\task8-4.dll
+C:\Users\alexk\source\repos\task8-4\task8-4\obj\Debug\netcoreapp3.1\task8-4.pdb
+C:\Users\alexk\source\repos\task8-4\task8-4\obj\Debug\netcoreapp3.1\task8-4.genruntimeconfig.cache
