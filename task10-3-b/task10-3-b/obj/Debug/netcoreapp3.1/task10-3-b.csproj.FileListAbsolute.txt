@@ -1,0 +1,13 @@
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\bin\Debug\netcoreapp3.1\task10-3-b.exe
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\bin\Debug\netcoreapp3.1\task10-3-b.deps.json
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\bin\Debug\netcoreapp3.1\task10-3-b.runtimeconfig.json
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\bin\Debug\netcoreapp3.1\task10-3-b.runtimeconfig.dev.json
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\bin\Debug\netcoreapp3.1\task10-3-b.dll
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\bin\Debug\netcoreapp3.1\task10-3-b.pdb
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\obj\Debug\netcoreapp3.1\task10-3-b.csprojAssemblyReference.cache
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\obj\Debug\netcoreapp3.1\task10-3-b.AssemblyInfoInputs.cache
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\obj\Debug\netcoreapp3.1\task10-3-b.AssemblyInfo.cs
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\obj\Debug\netcoreapp3.1\task10-3-b.csproj.CoreCompileInputs.cache
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\obj\Debug\netcoreapp3.1\task10-3-b.dll
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\obj\Debug\netcoreapp3.1\task10-3-b.pdb
+C:\Users\s0lut\source\repos\task10-3-b\task10-3-b\obj\Debug\netcoreapp3.1\task10-3-b.genruntimeconfig.cache
