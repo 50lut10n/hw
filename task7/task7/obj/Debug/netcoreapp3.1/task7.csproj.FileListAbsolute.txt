@@ -1,0 +1,13 @@
+C:\Users\alexk\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.exe
+C:\Users\alexk\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.deps.json
+C:\Users\alexk\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.runtimeconfig.json
+C:\Users\alexk\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.runtimeconfig.dev.json
+C:\Users\alexk\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.dll
+C:\Users\alexk\source\repos\task7\task7\bin\Debug\netcoreapp3.1\task7.pdb
+C:\Users\alexk\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.csprojAssemblyReference.cache
+C:\Users\alexk\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.AssemblyInfoInputs.cache
+C:\Users\alexk\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.AssemblyInfo.cs
+C:\Users\alexk\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.csproj.CoreCompileInputs.cache
+C:\Users\alexk\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.dll
+C:\Users\alexk\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.pdb
+C:\Users\alexk\source\repos\task7\task7\obj\Debug\netcoreapp3.1\task7.genruntimeconfig.cache
